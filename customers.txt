@@ -1,0 +1,7 @@
+5
+Ahmed 35 1 1 1 0
+Mohammed 28 2 2 1 0
+Kareem 42 3 3 3 0
+Sara 29 4 2 4 0
+Hana 19 5 2 13 0
+
